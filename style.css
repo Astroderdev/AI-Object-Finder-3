@@ -1,0 +1,19 @@
+
+body{background-image: url('background.jpeg'); background-size: cover; background-position: center;font-family: 'Raleway', sans-serif;}
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+#status
+{
+    font-size: 18px;
+}
+
+canvas{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
+    border-radius: 10px;
+}
+
